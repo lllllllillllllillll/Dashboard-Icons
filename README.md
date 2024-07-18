@@ -1,4 +1,4 @@
-# Dashboard-Icons
+# 🚀 Dashboard-Icons
 #### A collection of icons customized for dashboards and named to match container service names.
 
 #### Example: 250x250px PNG with transparent background.
